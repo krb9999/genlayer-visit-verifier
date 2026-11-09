@@ -1,0 +1,5 @@
+RESERVATION NOTICE (TEST DATA - NOT A REAL RECORD)
+Property: Hotel Del Coronado
+Guest: Test Guest   Confirmation: ABC123
+Dates booked: 2026-11-01 to 2026-11-03
+Status: CANCELLED - guest did not arrive, deposit refunded

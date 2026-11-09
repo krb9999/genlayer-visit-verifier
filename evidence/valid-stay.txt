@@ -1,0 +1,6 @@
+HOTEL FOLIO (TEST DATA - NOT A REAL RECORD)
+Property: Hotel Del Coronado
+Guest: Test Guest   Confirmation: ABC123
+Check-in: 2026-11-01
+Check-out: 2026-11-03
+Status: CHECKED OUT - folio settled
